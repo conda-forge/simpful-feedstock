@@ -1,5 +1,5 @@
 {% set name = "simpful" %}
-{% set version = "2.11.0" %}
+{% set version = "2.11.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/simpful-{{ version }}.tar.gz
-  sha256: 2fda013c3250f71ae8359e1a3717747503ac25ebf327ca452dbe6efa9156cf53
+  sha256: 935c4f179a0b067a055cac81917229d11e89b949a73db969ca9bd2a804f5bc7b
 
 build:
   noarch: python
