@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/simpful-feedsto
 
 Home: https://github.com/aresio/simpful
 
-Package license: GPL-3.0-only
+Package license: AFL-3.0
 
 Summary: A user-friendly Python library for fuzzy logic
 
